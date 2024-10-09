@@ -1,0 +1,21 @@
+Equipos sorteados: 
+Equipos sorteados: teamB, linux
+Equipos sorteados: linux, teamB
+Equipos sorteados: TeamC, teamB
+Integrantes sorteados: e2, c2, a4, e1
+Integrante sorteado: a5 del equipo linux
+Integrante sorteado: b3 del equipo teamB
+Integrante sorteado: c4 del equipo TeamC
+Integrante sorteado: d3 del equipo TeamD
+Integrante sorteado: e2 del equipo Teame
+Integrante sorteado: a3 del equipo linux
+Integrante sorteado: b3 del equipo teamB
+Equipos sorteados: linux, teamD, TeamD, TeamC, Teame
+Equipos sorteados: teamD, TeamC, linux
+a5 del equipo linux
+b3 del equipo teamB
+c2 del equipo TeamC
+d4 del equipo TeamD
+e5 del equipo Teame
+Equipos sorteados: UWU, linux, TeamD, Teame, teamB, teamD
+Equipos sorteados: Teame, TeamC, linux, TeamD
